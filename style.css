@@ -1,0 +1,12 @@
+body {
+  background-image: url(https://cdn.dribbble.com/users/4700568/screenshots/16256473/food_street.jpg);
+  background-size:cover;
+}
+h1{
+  text-align: start;
+  padding:10rem;
+  padding-bottom: 1rem;
+  color:rgba(166, 255, 0, 0.747);
+  font-size:450%;
+  font-weight: bold;
+}
